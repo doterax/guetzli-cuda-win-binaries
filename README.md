@@ -12,3 +12,7 @@ Guetzli is an awesome jpeg encoder, however, it works a little bit slow. In orde
 
 This repository if only for binary releases. Check Releases section.
 
+# Before use
+
+You should install CUDA driver needed from [here](https://developer.nvidia.com/cuda-downloads).
+
