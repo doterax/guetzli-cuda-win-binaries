@@ -10,7 +10,7 @@ sequential (nonprogressive) JPEGs due to faster decompression speeds they offer.
 # About this Repo
 Guetzli is an awesome jpeg encoder, however, it works a little bit slow. In order to speed it up, [we have added](https://github.com/ianhuang-777/guetzli-cuda-opencl) CUDA support for Guetzli, optimized some procedure.
 
-This repository if only for binary distribution. Please check Releases section.
+This repository is only for binary distribution. Please check Releases section.
 
 # Testing & Statistics
 
