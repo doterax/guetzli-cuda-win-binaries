@@ -23,7 +23,7 @@ CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60 GHz
 | :- | :- | :- | :- | 
 |Original|guetzli \<in file> \<out file>|153.6s|870 405|
 |Procedure Optimized| guetzli --c \<in file> \<out file>|87.9s|876 969|
-|Using OpenCL|guetzli --opencl \<in file> \<out file>|12.1h|862 442|
+|Using OpenCL|guetzli --opencl \<in file> \<out file>|12.1s|862 442|
 |Using CUDA|guetzli --cuda \<in file> \<out file>|11.9s|862 482|
 
 
